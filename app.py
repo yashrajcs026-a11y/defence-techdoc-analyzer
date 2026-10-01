@@ -55,6 +55,7 @@ def get_categorized_summary(text):
     except json.JSONDecodeError:
         return None
 
+#for testing purposes
 def get_fake_summary_for_testing(text):
     """Fake AI response, just to test the color display without using API calls."""
     return [
