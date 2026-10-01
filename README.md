@@ -26,3 +26,6 @@ intelligence brief, sorting key points into History, Application, and Future.
 4. Create a file named `api_key.env` in the project folder with:
    `GEMINI_API_KEY=your_key_here`
 5. Run `streamlit run app.py`
+
+6. ##a samll not
+7. I apologise for the quality of the video.
