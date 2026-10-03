@@ -27,5 +27,5 @@ intelligence brief, sorting key points into History, Application, and Future.
    `GEMINI_API_KEY=your_key_here`
 5. Run `streamlit run app.py`
 
-6. ##a samll not
-7. I apologise for the quality of the video.
+6. #A small note:
+7. I apologise for the quality of the video and UI of the website.
